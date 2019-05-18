@@ -1,0 +1,5 @@
+
+include_guard()
+
+set(AF_BUILD_OUTPUT_BIN_DIR "${CMAKE_BINARY_DIR}/.bin")
+set(AF_BUILD_OUTPUT_LIB_DIR "${CMAKE_BINARY_DIR}/.lib")
